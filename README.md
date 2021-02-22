@@ -8,4 +8,5 @@ Output: https://drive.google.com/file/d/18B_gJJ6834vm3jQsiCYO1dajLNmqwqgR/view?u
 * Numpy
 * OpenCV
 * Tensorflow
-* Request
+* Requests
+* Matplotlib
